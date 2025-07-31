@@ -9,8 +9,7 @@ Fin
 
 ## Ejercicio 1
 Simbolos para representar algoritmos en un diagrama de flujo
-![Simbolos][def]
+![simbolo](C:\Users\B09S202est\Documents\Programación-2025\git-and-github-SantiagoDuarte07\images\Simbolos.png)
 
-[def]: C:\Users\B09S202est\Documents\Programación-2025\git-and-github-SantiagoDuarte07\images\Simbolos.png
 
 .
