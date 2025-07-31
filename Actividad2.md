@@ -2,3 +2,4 @@
 graficos que se utilizan para representar algoritmos diagrama 
 ![Simbolos](Simbolos.png)
 
+
