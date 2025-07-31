@@ -14,3 +14,6 @@ Promedio = Total / 6
 Escribir ID, Total, Promedio
 Fin
 ```
+
+### Diagrama de flujo
+![Diagramadeflujo](Diagramadeflujo.drawio.png)
