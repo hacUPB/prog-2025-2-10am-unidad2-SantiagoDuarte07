@@ -12,3 +12,5 @@ Simbolos para representar algoritmos en un diagrama de flujo
 ![Simbolos][def]
 
 [def]: C:\Users\B09S202est\Documents\Programación-2025\git-and-github-SantiagoDuarte07\images\Simbolos.png
+
+.
