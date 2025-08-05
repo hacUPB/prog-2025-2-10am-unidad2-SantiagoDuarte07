@@ -17,3 +17,16 @@ Fin
 
 ### Diagrama de flujo
 ![Diagramadeflujo](Diagramadeflujo.drawio.png)
+
+
+# Ejercicio 3
+```
+Inicio
+Leer N1, N2, N3, N4, N5, N6
+Total = N1 + N2 + N3 + N4 + N5 + N6
+Promedio = Total / 6
+Nota Actual = Promedio * 0.7
+Nota necesaria = (3.0 - Nota actual) / 0.3
+Escribir Total, Promedio, Nota actual, Nota necesaria
+Fin
+```
