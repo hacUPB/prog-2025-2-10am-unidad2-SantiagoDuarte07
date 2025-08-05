@@ -30,3 +30,5 @@ Nota necesaria = (3.0 - Nota actual) / 0.3
 Escribir Total, Promedio, Nota actual, Nota necesaria
 Fin
 ```
+## Diagrama de flujo
+![Diagramadeflujo](Diagrama2.png)
