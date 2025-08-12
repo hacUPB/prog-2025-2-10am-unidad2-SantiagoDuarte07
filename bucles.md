@@ -35,3 +35,9 @@ Fin
 ### Diagrama de flujo
 ![Diagrama](imagen.png)
          
+## Ejercicio 3
+Calcular el factorial de un numero entero ingresado por el usuario
+|Variables| Tipo|
+|---------|----|
+|N|Entrada|
+|Resultado|Salida|
