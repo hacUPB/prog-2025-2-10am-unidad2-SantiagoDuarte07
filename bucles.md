@@ -33,5 +33,5 @@ Fin
 ```
 
 ### Diagrama de flujo
-
+![Diagrama](imagen.png)
          
