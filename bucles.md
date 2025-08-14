@@ -56,3 +56,8 @@ Mientras N>0
       Imprimir Factorial
 Fin
 ```
+
+### Diagrama de flujo
+![Diagrama](Factorial.drawio.png)
+
+
