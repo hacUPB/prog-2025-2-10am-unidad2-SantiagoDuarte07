@@ -81,4 +81,6 @@ leer compra
     fin si
 fin
 
+### Diagrama de flujo
+![Diagrama](DIAGRAMATAREATARJETA.drawio.png)
 
