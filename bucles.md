@@ -60,4 +60,25 @@ Fin
 ### Diagrama de flujo
 ![Diagrama](Factorial.drawio.png)
 
+## Ejercicio 4
+Consultar cómo funcionan las tarjetas de crédito. Asumir una tasa de interés fija (2%). Preguntar al usuario el valor de la compra y el número de cuotas. Calcular y mostrar en pantalla. El valor de cada una de las cuotas que debe pagar hasta saldar la deuda. 
+
+### Pseudocodigo
+leer compra
+    leer cuotas
+    r = 0.02
+
+    si cuotas <= 0 entonces
+        escribir "numero de cuotas invalido"
+    sino
+        cuota = (compra + compra*r*cuotas) / cuotas
+
+        i = 1
+        mientras i <= cuotas hacer
+            escribir "cuota ", i, ": ", cuota
+            i = i + 1
+        fin mientras
+    fin si
+fin
+
 
