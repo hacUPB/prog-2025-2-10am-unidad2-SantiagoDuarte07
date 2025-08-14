@@ -39,5 +39,5 @@ Fin
 Calcular el factorial de un numero entero ingresado por el usuario
 |Variables| Tipo|
 |---------|----|
-|N|Entrada|
+|N|Entrada
 |Resultado|Salida|
