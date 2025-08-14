@@ -41,3 +41,18 @@ Calcular el factorial de un numero entero ingresado por el usuario
 |---------|----|
 |N|Entrada|
 |Resultado|Salida|
+
+### Pseudocodigo
+```
+Inicio
+Leer N
+Factorial = 1
+Mientras N>0
+    Si N>0
+       Factorial = factorial * N
+       N=N-1
+     Fin mientras
+    Si no
+      Imprimir Factorial
+Fin
+```
